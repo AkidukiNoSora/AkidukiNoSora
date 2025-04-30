@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YuuShigure554&count_private=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
