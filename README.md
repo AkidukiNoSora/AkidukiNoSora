@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkidukiNoSora&layout=compact" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkidukiNoSora&layout=compact" />
