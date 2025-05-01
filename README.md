@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌸 About
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true" />
 
 Here are some ideas to get you started:
