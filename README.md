@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 主要使用
+- 🔭 主要使用JAVA
 - 🌱 打算学习Python、
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
