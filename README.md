@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ## 🔍 Search Engines
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
+
+<img alt="Dashboard stats of @AkidukiNoSora" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=73512083&image_size=auto&color_scheme=light" width="771" height="auto">
