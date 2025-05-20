@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
 
 <img alt="Dashboard stats of @AkidukiNoSora" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=73512083&image_size=auto&color_scheme=light" width="771" height="auto">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkidukiNoSora&theme=github" />
