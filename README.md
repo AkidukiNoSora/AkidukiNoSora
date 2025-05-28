@@ -1,7 +1,5 @@
 ## 🌸 About
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true" />
-
-Here are some ideas to get you started:
 不奢求合作伙伴同时我尽量寻求合作
 - 🔭 主要使用JAVA，
 - 🌱 打算学习Python、
