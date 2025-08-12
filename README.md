@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
 ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkidukiNoSora&theme=github" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkidukiNoSora&layout=compact)
+## 🪭 OTHER
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkidukiNoSora&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkidukiNoSora&theme=github" /> 
