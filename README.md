@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
 
 ## 🪭 OTHER
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkidukiNoSora&layout=compact)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkidukiNoSora&theme=github" /> 
