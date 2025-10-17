@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true" />
 Here are some ideas to get you started:
 
-- 🔭 不奢求合作伙伴同时我尽量寻求合作
+- 🔭 无人合作是客观现实，尽量寻求合作
 - 🌱 主要语言: JAVA ,正在学习Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
