@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 争取做一个足够好依赖的程序员
+- 🔭 争取做一个足够依赖的程序员
 - 🌱 主要语言: JAVA ,正在学习Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
