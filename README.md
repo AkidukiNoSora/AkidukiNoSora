@@ -1,9 +1,15 @@
 ## 🌸 About
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true" />
+</a>
+
 
 - 🔭 争取做一个足够废柴的程序员
 - 🌱 主要语言: JAVA ,正在学习Python
 - 📫 xishiyu93@gmail.com
 - 𝕏  @_Yuushigure
+-
+- 
 
   
 ## 📸 SKILLS
