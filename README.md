@@ -1,6 +1,6 @@
 ## 🌸 About
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AkidukiNoSora&count_private=true&show_icons=true&locale=cn" />
 </a>
 
 
@@ -24,4 +24,7 @@
 ## 💻Operating System
 ![MacOS](https://img.shields.io/static/v1?label=MacOS&message=M1%20Pro&color=%238ebdda&labelColor=%230078D6&style=for-the-badge&logo=MacOS)
 ## 🪭 OTHER
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkidukiNoSora&theme=github" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkidukiNoSora&theme=github&utcOffset=8"/>
+
+***
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkidukiNoSora&theme=github"/> 
