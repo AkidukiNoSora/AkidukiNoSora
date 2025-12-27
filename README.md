@@ -8,8 +8,8 @@
 - 🌱 主要语言: JAVA ,正在学习Python
 - 📫 xishiyu93@gmail.com
 - 𝕏  @_Yuushigure
--
-- 
+- 《C语言从精通到弃坑》
+  
 
   
 ## 📸 SKILLS
