@@ -9,6 +9,7 @@
 - 📫 xishiyu93@gmail.com
 - 𝕏  @_Yuushigure
 - ☕️《C语言从精通到弃坑》
+- 极端叛逆与极端顺从最强大，适中叛逆与适中顺从最弱小
 
   
 ## 📸 SKILLS
