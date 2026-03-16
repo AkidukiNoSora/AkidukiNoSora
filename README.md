@@ -4,7 +4,7 @@
 </a>
 
 
-- 🔭 争取做一个足够废柴的程序员
+- 🔭 废柴的程序员
 - 🌱 主要语言: JAVA ,正在学习Python
 - 📫 xishiyu93@gmail.com
 - 𝕏  @_Yuushigure
